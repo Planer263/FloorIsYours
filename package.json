@@ -1,0 +1,1 @@
+{"name":"floor-is-yours","version":"1.0.0","private":true,"type":"module","scripts":{"test":"node tests/engine.test.mjs && node tests/network.test.mjs && node tests/app.test.mjs"}}
